@@ -10,4 +10,4 @@ Algorithms Implemented:
 - Quick sort
 - Heap sort
 
-:link: You can take a look at the live running website: https://geekygoyal.github.io/Sorting-Visualizer/
+:link: You can take a look at the live running website: https://ankitajain23.github.io/Sorting-Visualizer/
