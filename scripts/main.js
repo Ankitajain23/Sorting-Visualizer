@@ -85,8 +85,8 @@ function runalgo() {
     case "Quick Sort":
       Quick();
       break;
-    case "Heap Sort":
-      Heap();
-      break;
+//     case "Heap Sort":
+//       Heap();
+//       break;
   }
 }
